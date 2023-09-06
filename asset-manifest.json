@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/WooDy/static/css/main.6ea0fd3d.css",
+    "main.js": "/WooDy/static/js/main.4dd0e1ed.js",
+    "static/js/787.d3befce1.chunk.js": "/WooDy/static/js/787.d3befce1.chunk.js",
+    "static/media/carousel-1.jpg": "/WooDy/static/media/carousel-1.6392cd215ac26f792ff3.jpg",
+    "static/media/carousel-3.jpg": "/WooDy/static/media/carousel-3.1a7f96ecff3bf75c67c1.jpg",
+    "static/media/carousel-2.jpg": "/WooDy/static/media/carousel-2.a0d27c538edb19566ab6.jpg",
+    "static/media/about.jpg": "/WooDy/static/media/about.ff20bbd2c627ae5987f5.jpg",
+    "static/media/quote.jpg": "/WooDy/static/media/quote.053847000c4553dd72db.jpg",
+    "static/media/feature.jpg": "/WooDy/static/media/feature.d4c58ced0d7ca59548c4.jpg",
+    "static/media/team-1.jpg": "/WooDy/static/media/team-1.cce9df7aca8faec952dd.jpg",
+    "static/media/service-1.jpg": "/WooDy/static/media/service-1.82a4c2ff6e7bd63c9634.jpg",
+    "static/media/service-4.jpg": "/WooDy/static/media/service-4.881aa0006a6b943cc215.jpg",
+    "static/media/service-6.jpg": "/WooDy/static/media/service-6.fa060b741baccdda468a.jpg",
+    "static/media/service-2.jpg": "/WooDy/static/media/service-2.5cd4d964914ff98c90ae.jpg",
+    "static/media/team-2.jpg": "/WooDy/static/media/team-2.f52c6e68b9e326f03050.jpg",
+    "static/media/service-3.jpg": "/WooDy/static/media/service-3.07736094980b8f7b34c7.jpg",
+    "static/media/service-5.jpg": "/WooDy/static/media/service-5.3eff7bbdd85b4fcf5093.jpg",
+    "static/media/team-4.jpg": "/WooDy/static/media/team-4.e4f993901a3e8f3b3187.jpg",
+    "static/media/team-3.jpg": "/WooDy/static/media/team-3.1881c84428eed8cfcf8d.jpg",
+    "index.html": "/WooDy/index.html",
+    "main.6ea0fd3d.css.map": "/WooDy/static/css/main.6ea0fd3d.css.map",
+    "main.4dd0e1ed.js.map": "/WooDy/static/js/main.4dd0e1ed.js.map",
+    "787.d3befce1.chunk.js.map": "/WooDy/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ea0fd3d.css",
+    "static/js/main.4dd0e1ed.js"
+  ]
+}
